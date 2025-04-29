@@ -1,0 +1,5 @@
+.env
+.terraform/
+.terraform.lock.hcl
+lambda.zip
+terraform.tfvars
